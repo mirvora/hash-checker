@@ -1,5 +1,11 @@
 <img src="media/logo/ic_app.png" height="100px" />
 
+# ATTENTION
+
+### Any political topics, as well as users who started them, are blocked forever without the right to restore access!
+
+### This is a project repository, not a discussion platform!
+
 # Current app state
 
 The app is currently unsupported. You can create new [issues](https://github.com/hash-checker/hash-checker/issues) or ask me [questions](https://github.com/hash-checker/hash-checker/issues), but anything that involves making edits will at best be done by a third-party contributor. I will accept all new features and build new app versions by request.
